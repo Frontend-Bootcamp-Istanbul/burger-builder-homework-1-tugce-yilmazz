@@ -3,5 +3,7 @@
  */
 import Hamburger from "./Hamburger";
 import TotalPrice from "./TotalPrice";
+import IntList from "./IntList";
 
-export {Hamburger, TotalPrice};
+
+export {Hamburger, TotalPrice, IntList};
